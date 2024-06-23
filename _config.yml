@@ -1,0 +1,12 @@
+title: My Blog
+email: lionclaw@163.com
+description: >- # 此描述将显示在搜索结果中
+  This is my personal blog.
+baseurl: "" # 请保持空白
+url: "https://lionclaw.github.io" # 你的 GitHub Pages URL
+
+# ...
+
+plugins:
+  - jekyll-feed
+
